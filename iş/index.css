@@ -1,0 +1,128 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: white
+}
+.container{
+    margin-left: 150px
+}
+div{
+    margin: 15px;
+}
+.sol{
+    width: 40%;
+    height: 50%;
+    border: 1px solid burlywood;
+    margin-top: 100px;
+   
+}
+.sağ{
+    width: 30%;
+    border: 1px solid burlywood;
+    height: 70%;
+}
+.üst{
+    display: flex;
+    margin: 15px;
+    padding: 0px;
+    background-color: 
+}
+.orta{
+    display: flex;
+}
+.alt{
+    display: flex;
+}
+.ikon{
+    width: 25px;
+    height: 25px;
+}
+.container{
+    display: flex;
+    margin-left: 60px;
+}
+.boyut{
+    width: 100px;
+    height: 150px;
+    margin-top: 30px;
+    overflow: visible;
+    
+}
+.alt3{
+    display: flex;
+    background-color: ;
+    
+}
+.üst1{
+    display: flex;
+    background-color: 
+}
+#ikon1{
+    margin-right: 100px;
+}
+.footer{
+    text-align: center;
+}
+.naber{
+    padding-top: 25px;
+    width: 225px;
+    height: 300px;
+    overflow: visible;
+    margin-top: -80px;
+}
+.map{
+    width: 150px;
+    height: 150px;
+    margin-left: 25px;
+    margin-top: 15px;
+}
+.ikon1{
+    width: 15px;
+    height: 15px;
+    
+}
+li{
+    margin-left: -60px;
+    margin-top: 25px;
+    list-style-type: none;
+}
+.ser{
+    width: 150px;
+    height: 150px;
+}
+.yazı4{
+    margin-top: -10px;
+    
+   
+}
+p{
+    color:chocolate
+}
+h{
+    color: coral;
+}
+.naber1{
+    overflow: visible;
+    margin-top: -70px;
+    height: 115;
+}
+
+    
+
+
+   
+    
+
+
+    
+
+    
+
+
+    
+
+
+    
+    
+
+
